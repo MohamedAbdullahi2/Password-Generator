@@ -6,10 +6,16 @@
 Components in this repo:
 
 
+
 HTML
+
 CSS
+
 Javascript
+
 README
+
+
 This code wrote in JavaScript to create random password :=
 
 
@@ -40,7 +46,8 @@ The Mock UP
 
 
 https://mohamedabdullahi2.github.io/Password-Generator/
+
+
 https://github.com/MohamedAbdullahi2/Password-Generator
 
-
-git clone 
+ 
