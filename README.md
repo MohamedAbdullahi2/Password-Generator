@@ -40,3 +40,7 @@ The Mock UP
 
 
 https://mohamedabdullahi2.github.io/Password-Generator/
+https://github.com/MohamedAbdullahi2/Password-Generator
+
+
+git clone 
